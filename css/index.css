@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+:root {
+    font-family: 'Poppin', sans-serif;
+}
+h1 {
+    color: red;
+    background-color: green;
+}
+p {
+    border: 1px solid black;
+} 
+.p {
+    color: blue;
+}
+#p {
+    color: brown;
+}
+div p {
+    background-color: grey;
+}
+p:hover {
+    font-style: italic;
+}
+.toolbar li {
+    display: inline;
+    background-color: #EEE;
+    border: 1px solid;
+    border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+    margin: 2px;
+    padding: .5em;
+}
